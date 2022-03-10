@@ -1,0 +1,22 @@
+/* ------------------------------ Fonts ------------------------------ */
+
+
+/* __Roboto: 700 weight__ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+/* __Roboto: 400 weight__ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+/*__Anonymous-pro: 700 weight__ */
+
+/* 
+    Novel Mono Pro not available on Google-fonts.
+
+    This font is similiar Novel Mono Font.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap');
